@@ -11,7 +11,7 @@ Challenge 5
     > - pandas
     > - matplotlib
     > - scipy.stats
-- numpy
+    > - numpy
 
 # Background
 
